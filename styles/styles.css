@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 nav {
     background-color: teal;
     padding: 10px;
@@ -48,6 +54,7 @@ main img {
     border: 1px solid rgb(0 0 0 / 0.2);
     padding: 10px 0;
     box-shadow: 0 0 30px gray;
+    float: right;
 }
 
 p {
@@ -79,6 +86,7 @@ aside h2 {
     top: 47px;
     left: 150px;
 }
+
 
 
 
